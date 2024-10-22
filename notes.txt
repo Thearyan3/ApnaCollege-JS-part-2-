@@ -1,0 +1,26 @@
+1. Console.log()
+--> To write (log) a message on the console.
+like console.log("Aryan"),
+console.log(1234), console.log(2 + 2). etc.
+
+2. Linking JS file
+--> <script src="app.js"><script>
+
+3. Template literals (${})
+--> They are used to add embedded expressions in a string. Any statement written between these ${} curly braces is first calculated and then they embedded (means placing) inside the string.
+let a = 5;
+let b = 10;
+console.log(`Your pay ${a + b} rupees`);
+
+4. operators in JS
+(i). Arithmetic (+, -, *, /)
+(ii). Unary (++, --)
+(iii). Assignment (=, +=, -=, *=, /=)
+(iv). Comparison Operators(>, >=, <, <=, ==, !=) - to compare 2 values.
+
+5. Conditional statements
+(i). if-else = if(some condition){
+    //Do Something
+}
+(ii). nested if-else
+(iii). switch
