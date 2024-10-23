@@ -1,4 +1,4 @@
-// Question No. 1 - A "good string" is a stirng that starts with the letter 'a' & has a length > 3. Write a Program to find if a stirng is good or not. 
+// Question No. 1 - A "good string" is a stirng that starts with the letter 'a' & has a length > 3. Write a Program to find if a string is good or not. 
 
 // let str = "pry";
 // if((str[0] === "A" || str[0] === "a") && str.length > 3){
