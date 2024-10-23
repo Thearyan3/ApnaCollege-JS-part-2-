@@ -19,8 +19,10 @@ console.log(`Your pay ${a + b} rupees`);
 (iv). Comparison Operators(>, >=, <, <=, ==, !=) - to compare 2 values.
 
 5. Conditional statements
-(i). if-else = if(some condition){
+(i). if = if(some condition){
     //Do Something
 }
-(ii). nested if-else
-(iii). switch
+(ii). else if 
+(iii). else
+(iv). nested if-else = Nesting is writing if-else inside if-else statements. It can have many levels.
+(v). switch
