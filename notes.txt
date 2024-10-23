@@ -30,3 +30,7 @@ console.log(`Your pay ${a + b} rupees`);
 
 6. Truthy & falsy = Everything in JS is true or fasle (in boolean context).
 This doesn't mean that their value itself is fasle or ture, but they are treated as false or true if taken in boolean context.
+
+7. Alert = It displays an alert message on the page.
+ 
+8. Prompt = It displays a dialog box that asks user for some input.
