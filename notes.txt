@@ -17,6 +17,7 @@ console.log(`Your pay ${a + b} rupees`);
 (ii). Unary (++, --)
 (iii). Assignment (=, +=, -=, *=, /=)
 (iv). Comparison Operators(>, >=, <, <=, ==, !=) - to compare 2 values.
+(v). Logical Operators(&&, ||, !) = Logical Operators are used to combine expressions.
 
 5. Conditional statements
 (i). if = if(some condition){
