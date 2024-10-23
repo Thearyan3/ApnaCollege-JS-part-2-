@@ -27,3 +27,6 @@ console.log(`Your pay ${a + b} rupees`);
 (iii). else
 (iv). nested if-else = Nesting is writing if-else inside if-else statements. It can have many levels.
 (v). switch
+
+6. Truthy & falsy = Everything in JS is true or fasle (in boolean context).
+This doesn't mean that their value itself is fasle or ture, but they are treated as false or true if taken in boolean context.
